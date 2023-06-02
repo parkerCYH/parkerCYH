@@ -27,6 +27,14 @@
     </p>
 </details>
 
+#
+
+<summary>
+    <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+    <strong> Waka Time: </strong>
+</summary>
+<br />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-43%20mins-blue)
 
