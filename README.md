@@ -63,16 +63,18 @@ Sunday                   26 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               9 mins              ██████████████████████░░░   89.46 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+paas-bo                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,5 +90,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-03-10 01:14:37 UTC
+ Last Updated on 2025-03-11 01:36:36 UTC
 <!--END_SECTION:waka-->
