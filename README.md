@@ -63,19 +63,16 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               55 mins             ████████████████████░░░░░   79.05 % 
-TSConfig                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-todo-list-aws            55 mins             ████████████████████░░░░░   79.13 % 
-sanity-next-blog         14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,5 +88,5 @@ Rust                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-29 01:59:44 UTC
+ Last Updated on 2025-06-30 01:55:07 UTC
 <!--END_SECTION:waka-->
