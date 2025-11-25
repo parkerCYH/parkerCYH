@@ -63,16 +63,16 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-smoooth-portal-next      47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,5 +88,5 @@ Rust                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-11-24 01:52:51 UTC
+ Last Updated on 2025-11-25 01:47:06 UTC
 <!--END_SECTION:waka-->
