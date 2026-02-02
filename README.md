@@ -63,18 +63,16 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               33 mins             ███████████████████░░░░░░   74.48 % 
-Other                    11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-smoooth-portal-next      44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +87,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-02-01 02:39:12 UTC
+ Last Updated on 2026-02-02 02:29:27 UTC
 <!--END_SECTION:waka-->
