@@ -36,65 +36,17 @@
 <br />
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-🌆 Daytime                233 commits         ██████████░░░░░░░░░░░░░░░   41.68 % 
-🌃 Evening                239 commits         ███████████░░░░░░░░░░░░░░   42.75 % 
-🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Tuesday                  96 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Wednesday                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Thursday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Friday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Saturday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Sunday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Markdown                 1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   35.13 % 
-TypeScript               1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Shell                    1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 17 mins       █████████████████░░░░░░░░   69.38 % 
-VS Code                  1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   30.62 % 
-
-🐱‍💻 Projects: 
-resume                   1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   35.98 % 
-smoooth-portal-next      1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   33.91 % 
-local-ai                 1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-resume-site              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-test                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-💻 Operating System: 
-Mac                      4 hrs 44 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████████████████░░░░░░░   72.41 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+TypeScript               22 repos            ██████████████████░░░░░░░   73.33 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 2026-06-15 04:42:43 UTC
+ Last Updated on 2026-06-16 04:26:55 UTC
 <!--END_SECTION:waka-->
