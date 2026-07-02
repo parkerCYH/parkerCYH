@@ -63,16 +63,17 @@ Sunday                   75 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              0 secs              █████████████████████████   100.00 % 
+VS Code                  0 secs              ████████████████░░░░░░░░░   62.67 % 
+Claude Code              0 secs              █████████░░░░░░░░░░░░░░░░   37.33 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+local-ai                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,5 +88,5 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-01 04:07:16 UTC
+ Last Updated on 2026-07-02 03:48:48 UTC
 <!--END_SECTION:waka-->
