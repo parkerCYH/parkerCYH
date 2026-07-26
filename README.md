@@ -39,21 +39,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                161 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-🌆 Daytime                405 commits         ██████████░░░░░░░░░░░░░░░   39.02 % 
-🌃 Evening                436 commits         ██████████░░░░░░░░░░░░░░░   42.00 % 
-🌙 Night                  36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+🌞 Morning                175 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+🌆 Daytime                437 commits         ██████████░░░░░░░░░░░░░░░   38.30 % 
+🌃 Evening                488 commits         ███████████░░░░░░░░░░░░░░   42.77 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   164 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Tuesday                  143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Wednesday                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Thursday                 197 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Friday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Saturday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Sunday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Monday                   168 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Tuesday                  143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Thursday                 222 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Friday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Sunday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 ```
 
 
@@ -63,25 +63,25 @@ Sunday                   131 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 17 hrs 21 mins      ████████████████████░░░░░   78.71 % 
-TypeScript               3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Markdown                 12 hrs 53 mins      ██████████████████░░░░░░░   73.30 % 
+TypeScript               3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 35 mins      ████████████████████████░   97.86 % 
-VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Claude Code              17 hrs 21 mins      █████████████████████████   98.72 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🐱‍💻 Projects: 
-super-parker             11 hrs 21 mins      █████████████░░░░░░░░░░░░   51.51 % 
-super-smoooth-portal-next3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-smoooth-ai-poc           2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-smoooth-portal-next      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-super-dreamlens          1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+super-parker             7 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.45 % 
+super-smoooth-portal-next2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+smoooth-ai-poc           2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+smoooth-portal-next      1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+cat-care                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 💻 Operating System: 
-Mac                      22 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +97,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-25 02:49:01 UTC
+ Last Updated on 2026-07-26 02:58:06 UTC
 <!--END_SECTION:waka-->
