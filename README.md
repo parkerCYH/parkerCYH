@@ -65,46 +65,42 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 5 hrs 2 mins        ██████████████████████░░░   86.12 % 
-TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-TOML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Markdown                 2 hrs 18 mins       ████████████████████████░   94.70 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 39 mins       ████████████████████████░   96.58 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Claude Code              2 hrs 23 mins       █████████████████████████   98.48 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🐱‍💻 Projects: 
-super-parker             2 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.84 % 
-smoooth-ai-poc           2 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.80 % 
-super-dreamlens          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-cat-care                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-interview-en             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+super-parker             1 hr 58 mins        ████████████████████░░░░░   81.15 % 
+super-dreamlens          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+cat-care                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+smoooth-ai-poc           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+interview-en             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      5 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 51 mins (99.92%)
+⏱ AI Coding Time: 2 hrs 25 mins (100.0%)
 
-✍️ 1,101 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 421 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 81,096,529 Input Tokens, 380,164 Output Tokens
+🔤 22,698,924 Input Tokens, 63,929 Output Tokens
 
-💵 $248.33 Estimated AI Cost This Week
+💵 $69.06 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 56 AI Prompts
+🧠 6 AI Sessions, 17 AI Prompts
 
-Sonnet                   1,154 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   430 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 879 characters per prompt
+📄 Detailed Prompter — average 965 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -122,5 +118,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-02 02:57:06 UTC
+ Last Updated on 2026-08-03 02:58:23 UTC
 <!--END_SECTION:waka-->
