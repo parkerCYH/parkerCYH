@@ -36,26 +36,26 @@
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2041%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                300 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-🌆 Daytime                611 commits         ██████████░░░░░░░░░░░░░░░   38.21 % 
-🌃 Evening                647 commits         ██████████░░░░░░░░░░░░░░░   40.46 % 
-🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+🌞 Morning                309 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+🌆 Daytime                627 commits         ██████████░░░░░░░░░░░░░░░   38.42 % 
+🌃 Evening                655 commits         ██████████░░░░░░░░░░░░░░░   40.13 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Tuesday                  199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                241 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Thursday                 323 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Saturday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Sunday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Monday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Tuesday                  232 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Wednesday                241 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Thursday                 323 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Saturday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Sunday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 ```
 
 
@@ -65,49 +65,49 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 19 hrs 8 mins       ███████████████████░░░░░░   75.55 % 
-TypeScript               3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Markdown                 20 hrs 32 mins      ██████████████████░░░░░░░   71.39 % 
+TypeScript               5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 14 mins      ████████████████████████░   95.71 % 
-VS Code                  1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Claude Code              27 hrs 23 mins      ████████████████████████░   95.16 % 
+VS Code                  1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🐱‍💻 Projects: 
-super-smoooth-portal-next9 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
-interview-en             6 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-super-dreamlens          2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-smoooth-portal-next      2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-super-parker             1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+super-smoooth-portal-next10 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   37.80 % 
+interview-en             5 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+smoooth-portal-next      4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+super-dreamlens          2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+super-parker             1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 💻 Operating System: 
-Mac                      25 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 4 mins (99.02%)
+⏱ AI Coding Time: 28 hrs 25 mins (98.76%)
 
-✍️ 6,406 lines written by AI, 26 lines written by hand (99.6% AI-written)
+✍️ 8,259 lines written by AI, 50 lines written by hand (99.4% AI-written)
 
-🔤 11,689,761 Input Tokens, 2,104,299 Output Tokens
+🔤 13,355,103 Input Tokens, 2,430,975 Output Tokens
 
-💵 $133.74 Estimated AI Cost This Week
+💵 $168.78 Estimated AI Cost This Week
 
-🧠 88 AI Sessions, 420 AI Prompts
+🧠 97 AI Sessions, 447 AI Prompts
 
-Sonnet                   6,485 lines         ████████████████████████░   97.20 % 
-Opus                     187 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Sonnet                   8,535 lines         ████████████████████████░   97.86 % 
+Opus                     187 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📄 Detailed Prompter — average 912 characters per prompt
+🤖 AI-Driven — 99.4% of written lines came from AI
+📄 Detailed Prompter — average 922 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.68% of changed lines were hand-edited
+🚀 High AI Trust — 0.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,5 +123,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-18 01:19:28 UTC
+ Last Updated on 2026-08-19 01:20:59 UTC
 <!--END_SECTION:waka-->
