@@ -65,46 +65,46 @@ Sunday                   205 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 4 hrs 6 mins        ███████████████████████░░   91.10 % 
-TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Markdown                 5 hrs 54 mins       ███████████████████░░░░░░   76.97 % 
+TypeScript               54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 21 mins       ████████████████████████░   96.59 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Claude Code              7 hrs 28 mins       ████████████████████████░   97.48 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🐱‍💻 Projects: 
-interview-en             1 hr 59 mins        ███████████░░░░░░░░░░░░░░   44.00 % 
-super-parker             1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.69 % 
-super-smoooth-portal-next20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-smoooth-portal-next      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-eve                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+super-parker             3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.02 % 
+interview-en             1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+parker-api               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+super-smoooth-portal-next45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+smoooth-portal-next      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 💻 Operating System: 
-Mac                      4 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 30 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 39 mins (99.91%)
 
-✍️ 1,061 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,845 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,185,368 Input Tokens, 389,994 Output Tokens
+🔤 3,719,049 Input Tokens, 807,034 Output Tokens
 
-💵 $22.08 Estimated AI Cost This Week
+💵 $54.02 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 71 AI Prompts
+🧠 32 AI Sessions, 100 AI Prompts
 
-Sonnet                   1,067 lines         █████████████████████████   100.00 % 
+Sonnet                   1,900 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,018 characters per prompt
+📄 Detailed Prompter — average 969 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -122,5 +122,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-26 01:25:02 UTC
+ Last Updated on 2026-08-27 08:09:41 UTC
 <!--END_SECTION:waka-->
