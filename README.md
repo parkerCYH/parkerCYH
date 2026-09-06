@@ -36,7 +36,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -65,48 +65,48 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 13 hrs 16 mins      █████████████████████░░░░   85.53 % 
-TypeScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Markdown                 11 hrs 21 mins      █████████████████████░░░░   85.35 % 
+TypeScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 55 mins      ████████████████████████░   96.26 % 
-VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Claude Code              12 hrs 44 mins      ████████████████████████░   95.70 % 
+VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🐱‍💻 Projects: 
-super-smoooth-portal-next6 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.30 % 
-interview-en             6 hrs               ██████████░░░░░░░░░░░░░░░   38.71 % 
-super-parker             1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-smoooth-portal-next      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-oceanus-official         14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+super-smoooth-portal-next5 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.68 % 
+interview-en             5 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.21 % 
+super-parker             1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+smoooth-portal-next      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+oceanus-official         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      15 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 12 mins (98.09%)
+⏱ AI Coding Time: 13 hrs (97.77%)
 
-✍️ 4,833 lines written by AI, 2 lines written by hand (99.96% AI-written)
+✍️ 4,360 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
-🔤 7,039,654 Input Tokens, 1,302,628 Output Tokens
+🔤 6,068,274 Input Tokens, 1,165,163 Output Tokens
 
-💵 $68.34 Estimated AI Cost This Week
+💵 $61.38 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 260 AI Prompts
+🧠 49 AI Sessions, 222 AI Prompts
 
-Sonnet                   5,119 lines         █████████████████████████   100.00 % 
+Sonnet                   4,641 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 1,513 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📄 Detailed Prompter — average 688 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,5 +122,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-05 03:31:16 UTC
+ Last Updated on 2026-09-06 03:32:06 UTC
 <!--END_SECTION:waka-->
