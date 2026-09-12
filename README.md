@@ -36,7 +36,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%203%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -65,46 +65,45 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 5 hrs 26 mins       ████████████████░░░░░░░░░   65.37 % 
-JSON                     1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-TypeScript               54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Markdown                 4 hrs 43 mins       ███████████████████░░░░░░   76.37 % 
+TypeScript               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 4 mins        ████████████████████████░   97.09 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Claude Code              6 hrs 2 mins        ████████████████████████░   97.81 % 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🐱‍💻 Projects: 
-super-smoooth-portal-next7 hrs 26 mins       ██████████████████████░░░   89.46 % 
-oceanus-official         33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-smoooth-backup-tool      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-smoooth-portal-next      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+super-smoooth-portal-next5 hrs 24 mins       ██████████████████████░░░   87.51 % 
+oceanus-official         33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+smoooth-backup-tool      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Mac                      8 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 11 mins (98.54%)
+⏱ AI Coding Time: 6 hrs 9 mins (99.67%)
 
-✍️ 4,060 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 3,876 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 3,126,061 Input Tokens, 734,907 Output Tokens
+🔤 2,640,810 Input Tokens, 587,401 Output Tokens
 
-💵 $43.55 Estimated AI Cost This Week
+💵 $37.55 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 93 AI Prompts
+🧠 19 AI Sessions, 63 AI Prompts
 
-Sonnet                   4,155 lines         █████████████████████████   100.00 % 
+Sonnet                   3,971 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 863 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 1,234 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
@@ -121,5 +120,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-11 03:37:59 UTC
+ Last Updated on 2026-09-12 03:42:06 UTC
 <!--END_SECTION:waka-->
