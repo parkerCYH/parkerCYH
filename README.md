@@ -65,46 +65,45 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 4 hrs 23 mins       ███████████████████░░░░░░   75.03 % 
-TypeScript               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Markdown                 2 hrs 58 mins       ████████████████░░░░░░░░░   64.99 % 
+TypeScript               1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 43 mins       ████████████████████████░   97.68 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Claude Code              4 hrs 27 mins       ████████████████████████░   97.54 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🐱‍💻 Projects: 
-super-smoooth-portal-next5 hrs 4 mins        ██████████████████████░░░   86.80 % 
-oceanus-official         33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-smoooth-backup-tool      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+super-smoooth-portal-next3 hrs 30 mins       ███████████████████░░░░░░   76.63 % 
+oceanus-official         1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
 
 💻 Operating System: 
-Mac                      5 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 49 mins (99.65%)
+⏱ AI Coding Time: 4 hrs 32 mins (99.55%)
 
-✍️ 3,876 lines written by AI, 1 lines written by hand (99.97% AI-written)
+✍️ 3,015 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 2,583,817 Input Tokens, 569,569 Output Tokens
+🔤 2,073,289 Input Tokens, 459,622 Output Tokens
 
-💵 $37.09 Estimated AI Cost This Week
+💵 $30.71 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 57 AI Prompts
+🧠 14 AI Sessions, 61 AI Prompts
 
-Sonnet                   3,971 lines         █████████████████████████   100.00 % 
+Sonnet                   3,026 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 1,345 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,290 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,5 +119,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-14 03:57:21 UTC
+ Last Updated on 2026-09-15 03:56:55 UTC
 <!--END_SECTION:waka-->
