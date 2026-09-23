@@ -65,46 +65,46 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 2 hrs 24 mins       ████████████████░░░░░░░░░   65.28 % 
-TypeScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Markdown                 2 hrs 31 mins       █████████████████░░░░░░░░   66.37 % 
+TypeScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 28 mins       ███████████████████████░░   93.96 % 
-VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Claude Code              3 hrs 35 mins       ████████████████████████░   94.10 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 🐱‍💻 Projects: 
-super-parker             2 hrs 9 mins        ███████████████░░░░░░░░░░   58.56 % 
-youtube-player-enhancer  43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-parker-api               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-eve                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-cat-care                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+super-parker             2 hrs 9 mins        ██████████████░░░░░░░░░░░   56.71 % 
+youtube-player-enhancer  43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+parker-api               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+eve                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+cat-care                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 💻 Operating System: 
-Mac                      3 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 31 mins (95.33%)
+⏱ AI Coding Time: 3 hrs 38 mins (95.48%)
 
-✍️ 652 lines written by AI, 2 lines written by hand (99.69% AI-written)
+✍️ 656 lines written by AI, 2 lines written by hand (99.7% AI-written)
 
-🔤 592,854 Input Tokens, 199,741 Output Tokens
+🔤 647,639 Input Tokens, 202,101 Output Tokens
 
-💵 $9.13 Estimated AI Cost This Week
+💵 $9.37 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 73 AI Prompts
+🧠 14 AI Sessions, 75 AI Prompts
 
-Sonnet                   681 lines           █████████████████████████   100.00 % 
+Sonnet                   685 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📄 Detailed Prompter — average 759 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+🤖 AI-Driven — 99.7% of written lines came from AI
+📄 Detailed Prompter — average 757 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
 
@@ -121,5 +121,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-22 03:54:03 UTC
+ Last Updated on 2026-09-23 03:52:05 UTC
 <!--END_SECTION:waka-->
