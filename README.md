@@ -65,43 +65,43 @@ Sunday                   396 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 2 hrs 21 mins       ███████████████░░░░░░░░░░   58.64 % 
-TypeScript               1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Markdown                 2 hrs 13 mins       ██████████████░░░░░░░░░░░   57.21 % 
+TypeScript               1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 58 mins       █████████████████████████   98.67 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Claude Code              3 hrs 50 mins       █████████████████████████   98.62 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🐱‍💻 Projects: 
-interview-en             2 hrs 9 mins        █████████████░░░░░░░░░░░░   53.42 % 
-paas-bo                  1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-super-dreamlens          25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-super-parker             18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+interview-en             2 hrs 1 min         █████████████░░░░░░░░░░░░   51.81 % 
+paas-bo                  1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+super-dreamlens          25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+super-parker             18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 
 💻 Operating System: 
-Mac                      4 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 59 mins (98.78%)
+⏱ AI Coding Time: 3 hrs 50 mins (98.74%)
 
 ✍️ 457 lines written by AI, 1 lines written by hand (99.78% AI-written)
 
-🔤 1,947,033 Input Tokens, 252,018 Output Tokens
+🔤 1,899,522 Input Tokens, 243,686 Output Tokens
 
-💵 $16.04 Estimated AI Cost This Week
+💵 $15.76 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 100 AI Prompts
+🧠 32 AI Sessions, 97 AI Prompts
 
 Sonnet                   457 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.78% of written lines came from AI
-📝 Concise Prompter — average 171 characters per prompt
+📝 Concise Prompter — average 175 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
@@ -119,5 +119,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-26 04:05:16 UTC
+ Last Updated on 2026-09-27 04:18:32 UTC
 <!--END_SECTION:waka-->
