@@ -41,21 +41,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                642 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-🌆 Daytime                1225 commits        ██████████░░░░░░░░░░░░░░░   40.02 % 
-🌃 Evening                1137 commits        █████████░░░░░░░░░░░░░░░░   37.14 % 
-🌙 Night                  57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+🌞 Morning                668 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+🌆 Daytime                1254 commits        ██████████░░░░░░░░░░░░░░░   40.24 % 
+🌃 Evening                1137 commits        █████████░░░░░░░░░░░░░░░░   36.49 % 
+🌙 Night                  57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Tuesday                  392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Wednesday                478 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Thursday                 585 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Friday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Saturday                 348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Sunday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Monday                   420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Tuesday                  422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Wednesday                490 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Thursday                 585 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Friday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Saturday                 348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Sunday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 ```
 
 
@@ -65,22 +65,44 @@ Sunday                   408 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 51 mins             ██████████████████████░░░   89.29 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              56 mins             █████████████████████████   99.34 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+interview-en             51 mins             ██████████████████████░░░   89.29 % 
+eve                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+super-parker             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+youtube-player-enhancer  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 56 mins (99.34%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 401,741 Input Tokens, 34,719 Output Tokens
+
+💵 $3.36 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 26 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 128 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,5 +118,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-20 03:58:23 UTC
+ Last Updated on 2026-10-21 03:47:55 UTC
 <!--END_SECTION:waka-->
