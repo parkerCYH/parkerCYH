@@ -36,7 +36,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%201%20min-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -65,42 +65,43 @@ Sunday                   437 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 37 mins        ███████████████████░░░░░░   74.77 % 
-Text                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Markdown                 2 hrs 35 mins       ████████████████░░░░░░░░░   63.67 % 
+Other                    1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 8 mins        █████████████████████████   98.01 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Claude Code              3 hrs 52 mins       ████████████████████████░   95.07 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🐱‍💻 Projects: 
-interview-en             1 hr 56 mins        ██████████████████████░░░   88.88 % 
-super-parker             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-super-smoooth-portal-next3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-smoooth-ai-poc           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+interview-en             2 hrs 37 mins       ████████████████░░░░░░░░░   64.61 % 
+super-smoooth-portal-next1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+super-parker             22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+oceanus-official         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+smoooth-ai-poc           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 4 mins (100.0%)
 
-✍️ 295 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 482 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,031,557 Input Tokens, 113,374 Output Tokens
+🔤 1,785,233 Input Tokens, 275,017 Output Tokens
 
-💵 $10.72 Estimated AI Cost This Week
+💵 $21.61 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 46 AI Prompts
+🧠 17 AI Sessions, 80 AI Prompts
 
-Opus                     295 lines           █████████████████████████   100.00 % 
+Opus                     482 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 503 characters per prompt
+📄 Detailed Prompter — average 669 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -118,5 +119,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-29 04:53:37 UTC
+ Last Updated on 2026-10-30 04:52:54 UTC
 <!--END_SECTION:waka-->
