@@ -65,43 +65,43 @@ Sunday                   437 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 2 hrs 35 mins       ████████████████░░░░░░░░░   63.67 % 
-Other                    1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Markdown                 1 hr 42 mins        █████████████░░░░░░░░░░░░   53.54 % 
+Other                    1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   35.43 % 
+Text                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 52 mins       ████████████████████████░   95.07 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Claude Code              2 hrs 59 mins       ███████████████████████░░   93.69 % 
+VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🐱‍💻 Projects: 
-interview-en             2 hrs 37 mins       ████████████████░░░░░░░░░   64.61 % 
-super-smoooth-portal-next1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-super-parker             22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-oceanus-official         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-smoooth-ai-poc           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+interview-en             1 hr 44 mins        ██████████████░░░░░░░░░░░   54.74 % 
+super-smoooth-portal-next1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   32.95 % 
+super-parker             22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+oceanus-official         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+smoooth-ai-poc           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 4 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 11 mins (100.0%)
 
-✍️ 482 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 451 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,785,647 Input Tokens, 275,673 Output Tokens
+🔤 1,364,134 Input Tokens, 232,330 Output Tokens
 
-💵 $21.65 Estimated AI Cost This Week
+💵 $17.44 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 81 AI Prompts
+🧠 15 AI Sessions, 54 AI Prompts
 
-Opus                     482 lines           █████████████████████████   100.00 % 
+Opus                     451 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 661 characters per prompt
+📄 Detailed Prompter — average 724 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -119,5 +119,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-31 04:39:04 UTC
+ Last Updated on 2026-11-01 04:58:33 UTC
 <!--END_SECTION:waka-->
